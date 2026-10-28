@@ -1,0 +1,216 @@
+GAME MECHANICS
+
+*survival aspects, clean/dirty, infection, wounded, sick, water, hunger, infected
+*base building, use zombies to automate base
+*zombies have hive mind, you can over ride signal to take control of zombie
+*zombie v zombie battles
+*frankinstein zombies to make the ideal zombie
+*human v zombie
+*exp human/zombie
+*zombie parts come with core stats and fixed move and decay rate.
+
+
+
+COLOR THOUGHTS
+
+Oh nice—that actually locks things into place really well.
+16-bit pixel art + top-down + hopeful apocalypse is a great combo.
+
+Below is a practical, pixel-friendly approach you can actually use without knowing color theory.
+
+Golden Rule for 16-bit Pixel Art
+
+You don’t get realism—you get clarity and mood through limitation.
+
+Fewer colors + intentional contrast = stronger emotion
+
+Hope in pixel art comes from clean highlights, not brightness.
+
+1. Overall Palette Philosophy
+
+Think in layers, not moods:
+
+World → desaturated, cool, worn
+
+Life & Hope → warmer, slightly more saturated
+
+Danger → darker or sharper contrast
+
+UI / Player → clean, readable, consistent
+
+Avoid pure black and pure white.
+
+2. Core Environment Palette (8–10 colors)
+
+These do most of the heavy lifting.
+
+Cool Neutrals
+
+#1F2328 (deep shadow)
+
+#2F343A (dark stone)
+
+#444A50 (walls, roads)
+
+#5A5F65 (light concrete)
+
+Earth & Decay
+
+#5C5A3E (dead grass)
+
+#6B5A45 (dirt, rusted wood)
+
+#4A553C (muted foliage)
+
+These keep the world quiet and tired, not depressing.
+
+3. Hope & Recovery Colors (4–6 colors)
+
+Use these sparingly so they feel meaningful.
+
+Warm Light
+
+#D6A24A (lanterns, windows)
+
+#C88B3A (fires, warmth)
+
+Life
+
+#7FAF6A (crops, regrowth)
+
+#5F8F7A (clean water, renewal)
+
+Clean Spaces
+
+#E4DFD5 (medical tents, safe interiors)
+
+These should never dominate the screen—just appear.
+
+4. Zombies (Muted, Utilitarian)
+
+They’re tools now, not monsters.
+
+Skin
+
+#6A7482 (dead blue-gray)
+
+#5C616B (shadow tone)
+
+Damage
+
+#7A3E3E (old wounds)
+
+#4F2B2B (deep damage)
+
+Keep their saturation low so they don’t visually overpower the player.
+
+5. Player & NPC Readability (Very Important)
+
+Your player should be:
+
+Slightly brighter
+
+Slightly warmer
+
+Slightly cleaner
+
+Example accent:
+
+#8FB3C8 (cool jacket)
+
+#C9A35F (warm gear accent)
+
+This subconsciously says: human, alive, capable.
+
+6. Shading Rules (Pixel-Friendly)
+
+Instead of realism:
+
+Use 2–3 shades per object
+
+Shift hue slightly when shading
+(cool shadows, warm highlights)
+
+Example:
+
+Base: muted brown
+
+Shadow: slightly bluer brown
+
+Highlight: slightly warmer brown
+
+This makes pixels feel alive without more colors.
+
+7. Emotional Storytelling Through Color
+
+You can tell story beats just by palette balance:
+
+Early game → mostly cool, gray, dead
+
+Mid game → more greens, warm lights
+
+Late game → brighter interiors, cleaner whites
+
+No dialogue needed.
+
+8. Tiny Starter Palette (16 Colors)
+
+If you want something very manageable:
+
+World (8)
+
+#1F2328
+
+#2F343A
+
+#444A50
+
+#5A5F65
+
+#5C5A3E
+
+#6B5A45
+
+#4A553C
+
+#3E453A
+
+Life & Hope (5)
+
+#D6A24A
+
+#C88B3A
+
+#7FAF6A
+
+#5F8F7A
+
+#E4DFD5
+
+Danger (3)
+
+#7A3E3E
+
+#4F2B2B
+
+#6A7482
+
+That’s enough for a whole game if reused smartly.
+
+Final Thought
+
+In 16-bit pixel art, hope isn’t brightness—it’s intention.
+
+A single warm window in a dark city
+A patch of green in dead soil
+A clean color among worn ones
+
+If you want, next I can:
+
+Tune this palette for 16×16 or 32×32 tiles
+
+Help you design day/night palettes
+
+Build a UI palette that doesn’t break immersion
+
+You’re asking the right questions—this game already has a strong soul.
